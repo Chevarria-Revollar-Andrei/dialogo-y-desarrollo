@@ -1,0 +1,14 @@
+# Credenciales y archivos de entorno sensibles
+.env
+.env.*
+*.config.local.php
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Registros de errores y archivos temporales
+*.log
+*.tmp
