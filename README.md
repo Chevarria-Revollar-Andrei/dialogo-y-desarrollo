@@ -146,7 +146,7 @@ La migración a producción se realiza de forma independiente al control de vers
 
 ## 🔗 URL Pública del Proyecto
 
-* 🚀 **Sitio en vivo:** `http://dialogoydesarrollochevarria.fwh.is` *(Actualizar con la URL final)*
+* 🚀 **Sitio en vivo:** `http://dialogoydesarrollochevarria.fwh.is` 
 
 ---
 
